@@ -1,3 +1,21 @@
 h1 {
   margin-top: 68px;
+  color:white;
+  text-align: center;
+  font-size: 60px;
+  font-family: monospace;
+}
+p{
+color: white;
+font-family: monospace;
+text-align: center;
+font-size: 25px;
+background-color: turquoise;
+}
+body{
+  background-color: turquoise;
+}
+
+svg{
+  color: turquoise;
 }
